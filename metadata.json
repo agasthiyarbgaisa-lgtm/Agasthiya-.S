@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Data Analyst",
+  "description": "An interactive data analysis dashboard and AI assistant to identify top-selling products, category revenue, ratings correlations, underperforming stock, and promotion opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
